@@ -1,0 +1,28 @@
+{
+  "name": "w80",
+  "version": "0.0.1",
+  "description": "A collection of 80 character wide frontend dev snippets",
+  "main": "w80.min.js",
+  "directories": {
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "keywords": [
+    "frontend", "alert", "favicon", "code-golf"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richplastow/w80.git"
+  },
+  "author": "Rich Plastow <rich@richplastow.com> (http://richplastow.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richplastow/w80/issues"
+  },
+  "homepage": "http://w80.richplastow.com/"
+}
